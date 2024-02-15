@@ -1,6 +1,7 @@
 # Sign-up Form README
 
 This repository contains a simple HTML sign-up form for a fictional online service called "ODIN". It includes the HTML structure (`index.html`), CSS styling (`styles.css`), and an image file (`odin-lined.png`) for the Odin logo.
+
 Live version here: https://mctintor.github.io/Sign-up-Form/
 
 ## Usage
